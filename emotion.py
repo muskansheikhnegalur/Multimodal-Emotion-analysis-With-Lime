@@ -1,8 +1,5 @@
 # =============================================================================
 # MULTIMODAL EMOTION-AWARE AI ASSISTANT
-# M.Tech Research Project — IEEE-Level Production Build
-# Fixes: fusion explanation duplication, LIME narrative bug, VA fallback,
-#        function ordering, section bleed, DB preview leak, widget key guard
 # =============================================================================
 
 import streamlit as st
